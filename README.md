@@ -1,4 +1,4 @@
-# E-waste-Management-System-based-on-Hyperledger-Besu
+# E-waste-Management-System-based-on-Hyperledger-Besu-Guide
 
 [![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](./LICENSE)
 
